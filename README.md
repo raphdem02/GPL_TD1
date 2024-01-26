@@ -11,4 +11,4 @@ To modify a commit that is farther back in your history, you must move to more c
 
 
 
-
+Stanislas Berard
